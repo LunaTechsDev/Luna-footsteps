@@ -10,8 +10,9 @@
 A plugin that creates foot step sfx for players and events.
 
 ==== How To Use ====
+<lfse: fileName volume pitch pan> notetag within the event or actor notebox
+to generate the SE when they move.
 
-.
 
 MIT License
 Copyright (c) 2020 LunaTechsDev
