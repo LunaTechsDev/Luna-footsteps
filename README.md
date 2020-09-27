@@ -1,3 +1,3 @@
-# Luna Links  
+# Luna Footsteps  
 ### Author LunaTechs - Kino
-> An RPGMakerMV plugin that allows you to link to websites outside of RMMV/MZ.
+> An MV/MZ that creates footstep sfx for players and events<LunaFootsteps>.
